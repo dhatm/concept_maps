@@ -1,7 +1,12 @@
 # concept_maps
-**Description:** Approaches and tinkering with ideas for making concept maps.  Concept maps are useful for visualizing information, communicating ideas, learning, reinforcing concepts, brainstorming ideas, and planning.  
+**Description:** Approaches and tinkering with ideas for making concept maps.  A concept map is a diagram that visually represents relationships between ideas. Concept maps are useful for communicating ideas, active learning (the focus here), and brainstorming.  
 
-## One Manaul Approach with Some Automation
+See these Lucid links for overview and tutorials:
+[lucid overview][lucidurl]
+[lucid tutorial][lucidurl]
+
+
+## Concept Maps for Active Learning: A Manaul Approach with Some Automation
 ![Current Process](CMAP_Approach.png)
 
 
@@ -22,9 +27,11 @@ Here I use concept maps for active learning: to digest, better remember, and rei
 
 # Misc. Links
 1. [Word cloud generation][wordcloud]
+2. [lucid concept map overview][lucidurl]
+3. [lucid concept map tutorial][lucidurl] -- also describes difference with mind maps
 
 [wordcloud]: https://github.com/dhatm/word_clouds/
 [kuhn]: https://github.com/dhatm/word_clouds/blob/main/reading/Kuhn-SSR-2ndEd.pdf
-
-
+[lucidurl]: https://www.lucidchart.com/pages/concept-map
+[lucidvid]: https://www.youtube.com/watch?v=8XGQGhli0I0
 
