@@ -2,8 +2,8 @@
 **Description:** Approaches and tinkering with ideas for making concept maps.  A concept map is a diagram that visually represents relationships between concepts (ideas, terms, or topics).  Concept maps are useful for communicating ideas, active learning and understanding (the focus here), and brainstorming. 
 
 See these Lucid links for overview and tutorials:
-[lucid overview][lucidurl]
-[lucid tutorial][lucidurl]
+- [lucid overview][lucidurl]
+- [lucid tutorial][lucidurl]
 
 
 ## Concept Maps for Active Learning: A Manaul Approach with Some Automation
