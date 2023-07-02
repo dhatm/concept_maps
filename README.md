@@ -3,7 +3,7 @@
 
 See these Lucid links for overview and tutorials:
 - [lucid overview][lucidurl]
-- [lucid tutorial][lucidurl]
+- [lucid tutorial][lucidvid]
 
 
 ## Concept Maps for Active Learning: A Manaul Approach with Some Automation
@@ -28,7 +28,7 @@ Here I use concept maps for active learning: to digest, better remember, and rei
 # Misc. Links
 1. [Word cloud generation][wordcloud]
 2. [lucid concept map overview][lucidurl]
-3. [lucid concept map tutorial][lucidurl] -- also describes difference with mind maps
+3. [lucid concept map tutorial][lucidvid] -- also describes difference with mind maps
 
 [wordcloud]: https://github.com/dhatm/word_clouds/
 [kuhn]: https://github.com/dhatm/word_clouds/blob/main/reading/Kuhn-SSR-2ndEd.pdf
