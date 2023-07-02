@@ -6,7 +6,7 @@
 
 
 ## Example Result
-Here I use concept maps for active learning: to digest, better remember, and reinforce the ideas presented from Thomas Kuhn's [_The Structure of Scientific Revolutions_][kuhn].  This example concept map was formed after spending ~2 days reading Kuhn's seminal work for the first time.  2 days is not enough time to read and ponder it in the depth it deserves.  One of the reasons I found a concept map useful here was that helped focus me to identify his key points, terms, and ideas and understand how they relate and affect each other.  
+Here I use concept maps for active learning: to digest, better remember, and reinforce the ideas presented from Thomas Kuhn's [_The Structure of Scientific Revolutions_][kuhn].  This example concept map was formed after spending ~2 days reading Kuhn's seminal work for the first time.  2 days is not enough time to read and ponder it in the depth it deserves.  One of the reasons I found a concept map useful here was that it helped to identify key points, terms, and ideas, and understand how they relate and affect each other.  
 
 ![Approach](ScientificRevolutions.png)
 
